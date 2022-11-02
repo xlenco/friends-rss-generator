@@ -112,7 +112,7 @@ jobs:
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'output-v1'
+        push-branch: 'output-v2'
         force-push: 'true'
         commit-message: 'Generate Json'
         name: github-actions[bot]
