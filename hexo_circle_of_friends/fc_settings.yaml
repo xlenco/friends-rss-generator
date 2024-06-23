@@ -56,7 +56,7 @@ GITEE_FRIENDS_LINKS: {
 # get links from github
 # 从github issue中获取友链
 GITHUB_FRIENDS_LINKS: {
-    enable: true, # true 开启github issue兼容
+    enable: false, # true 开启github issue兼容
     type: "stellar",  # volantis/stellar用户请在这里填写volantis
     owner: "xlenco",  # 填写你的github用户名
     repo: "blog-friends",  # 填写你的github仓库名
